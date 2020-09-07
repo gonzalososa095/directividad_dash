@@ -1,2 +1,2 @@
 # directividad_dash
-Aplicación que muestra gráficos de la directividad de un parlante
+disponible en https://gonzasosa1.herokuapp.com
